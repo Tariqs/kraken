@@ -4,6 +4,8 @@ Branch 2 starts from  here:
 
 First commit on branch 2.
 
+Second commit on branch 2.
+
 
 
 
