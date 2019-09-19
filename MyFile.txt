@@ -6,6 +6,7 @@ First commit on branch 2.
 
 Second commit on branch 2.
 
+Here is a hot fix. Test it quickly and push it to production. 
 Third commit on branch 2.
 
 Fourth Commit on  branch 2.
